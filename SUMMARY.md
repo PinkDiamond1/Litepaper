@@ -16,7 +16,7 @@
 
 * [💸 DeFi](metaverse/defi/README.md)
   * [🏦 Bank](metaverse/defi/bank.md)
-  * [👨🌾 👨🌾 Farm](metaverse/defi/farm.md)
+  * [👨🌾 👨🌾 👨🌾 Farm](metaverse/defi/farm.md)
 * [🛒 Shops & Marketplace](metaverse/shops-and-marketplace.md)
 * [🤩 Recreation](metaverse/recreation.md)
 * [✌ Social Impact](metaverse/social-impact.md)
@@ -37,7 +37,7 @@
 
 * [🪙 Verse Token ($VRS)](token-economy/verse-token-usdvrs.md)
 * [🪙 Dungeon Token ($DGN)](token-economy/dungeon-token-usddgn.md)
-* [🦸♂ 🦸♂ NFT Character liquidity](token-economy/nft-character-liquidity.md)
+* [🦸♂ 🦸♂ 🦸♂ NFT Character liquidity](token-economy/nft-character-liquidity.md)
 * [⚖ Composability](token-economy/composability.md)
 * [📈 Tokenomics](token-economy/tokenomics.md)
 
