@@ -24,7 +24,7 @@ $cVRS staking will also empower stakes with an additional future utility, such a
 * Special access to staker-exclusive metaverse avenues, real-estate ownership, exclusive giveaways, dungeons, and rare-warriors.
 * Ecosystem Partner drops and releases.
 
-Besides buying $cVRS on market after the token launch in 2021, players would also be able to earn $cVRS rewards through LP token staking on Ubeswap. (wait for the official announcements in Q1 2022)
+Besides buying $cVRS on market after the token launch in 2021, players would also be able to earn $cVRS rewards through LP token staking on Ubeswap. (wait for the official announcements in Q1, 2022)
 
 {% hint style="info" %}
 Note: LP staking on Ubeswap, will not be subject to a token lock-up but, on the other hand staking $cVRS will be a locked form of staking for fixed reward rates, proportional to the amount of time, the tokens would be locked for.&#x20;
