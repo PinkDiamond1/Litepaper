@@ -6,7 +6,7 @@ description: The lore of IntoTheVerse
 
 > _**The world that you perceive is not the only world in existence.**_
 
-**IntoTheVerse** is a \*\*\*\* pixel replication of the real world we live in. People live in a crypto-native city in various aspects of life. The city has banks, museums, shops, farms, recreational avenues, etc.
+**IntoTheVerse** is a  pixel replication of the real world we live in. People live in a crypto-native city in various aspects of life. The city has banks, museums, shops, farms, recreational avenues, etc.
 
 But until recently, not everyone inside this Verse knew that there's a whole other world existing just beneath their surface. The knowledge of this hidden underground world had been known to a few and had been concealed from the rest.
 
@@ -16,7 +16,7 @@ But all this changed around 500 years ago when two explorers Eli and Rame stumbl
 
 As soon as they came out of the tunnel, they transformed back to their normal self. Rame who unearthed a treasure chest, had collected a few odd-looking coins. They approached the **Elders** of the city, who on consulting with the high priest confirmed that these coins are from the old world and have special powers, and thus they coined them as **$DGN (Dungeon)** coins.
 
-Since then, the people have been paying the **Summoners,** $DGN coins\*\*,\*\* to summon new heroes to raid the dungeons, and have been uncovering mystical secrets from the past, one by one, while also mining more rewards. People have been using these rewards to create technological advancements in the city and create conditions of prosperity for all.
+Since then, the people have been paying the **Summoners,** $DGN coins, to summon new heroes to raid the dungeons, and have been uncovering mystical secrets from the past, one by one, while also mining more rewards. People have been using these rewards to create technological advancements in the city and create conditions of prosperity for all.
 
 ## _Power of different Guilds_
 
