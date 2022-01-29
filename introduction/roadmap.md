@@ -13,8 +13,8 @@ IntoTheVerse will continue to grow with new features, systems, maps, and NFTs. T
 **Q2, 2022**
 
 * [ ] NFT presale, airdrops.
-* [ ] IDO, DEX, CEX launch.
-* [ ] Staking launch.
+* [ ] IDO and DEX launch.
+* [ ] Staking and farming launch.
 * [ ] Smart contract setup.
 
 **Q3, 2022**
