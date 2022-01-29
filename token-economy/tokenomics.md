@@ -1,15 +1,38 @@
+---
+description: $VRS
+---
+
 # 📈 Tokenomics
 
+|                                |                                   |
+| ------------------------------ | --------------------------------- |
+| **Type**                       | Governance Token for IntoTheVerse |
+| **Ticker**                     | VRS                               |
+| **Maximum Supply**             | 8,000,000,000 VRS (FIXED)         |
+| **Token Contract**             | TBD                               |
+|                                |                                   |
+| **Initial circulating supply** | 292,000,000 VRS                   |
+| **Initial market cap**         | $2,628,000 USD                    |
+|                                |                                   |
+| **Seed sale price**            | $0.003 USD                        |
+| **Private sale price**         | $0.005 USD                        |
+| **Public sale price**          | $0.009 USD                        |
 
+![Tokenomics](../.gitbook/assets/Tokenomics.png)
 
-|                    | Supply | Tokens     | TGE and Vesting                                                                      |
-| ------------------ | ------ | ---------- | ------------------------------------------------------------------------------------ |
-| Private Round      | 15.00% | 1500000000 | <p>TGE: 10%</p><p>M6-24 4.5%</p>                                                     |
-| Public Raise / IDO | 1.50%  | 150000000  | TGE: 100%                                                                            |
-| Maketing           | 7.00%  | 700000000  | <p>TGE: 15%</p><p>M2-18 5%</p>                                                       |
-| LP Rewards         | 18.00% | 1800000000 | TGE: 100%                                                                            |
-| Treasury           | 21.50% | 2150000000 | <p>TGE: 2%</p><p>M2-25 4%, M26: 2%</p>                                               |
-| Development        | 18%    | 1950000000 | <p>M6: 20%</p><p>M13, 16, 19, 22, 25, 28, 31, 34: 10%</p>                            |
-| Team               | 15.00% | 1500000000 | <p>1st year lock</p><p>16.67% every 3rd month after</p>                              |
-| Partners/Advisors  | 4%     | 400000000  | <p>M3, 5, 7, 9, 11: 5%;</p><p>M13, 16, 19, 22, 25: 7%<br>M28, 32, 36, 40, 44: 8%</p> |
+### Vesting Schedule
+
+![Vesting Schedule](<../.gitbook/assets/$VRS Unlock Schedule.png>)
+
+| Category                   | Supply | Tokens        | TGE and Vesting                                                    |
+| -------------------------- | ------ | ------------- | ------------------------------------------------------------------ |
+| **Seed Round**             | 5.00%  | 400,000,000   | <p>6 months cliff<br>18 months vesting, linear unlock @ 5.50%</p>  |
+| **Private Sale**           | 14.00% | 1,120,000,000 | <p>6 months cliff<br>18 months vesting, linear unlock @ 5.50%</p>  |
+| **Public Raise**           | 2.00%  | 160,000,000   | <p>TGE: 40% unlocked<br>15% quarterly unlock</p>                   |
+| **LP Rewards**             | 6.00%  | 480,000,000   | <p>TGE 10% unlocked<br>36 month vesting, linear unlock @ 2.5%</p>  |
+| **Reserve**                | 27.00% | 2,160,000,000 | <p>12 months cliff<br>40 months vesting, linear unlock @ 2.50%</p> |
+| **Ecosystem**              | 15.00% | 1,200,000,000 | <p>24 months cliff<br>28 months vesting, linear unlock @ 3.75%</p> |
+| **Operations & Marketing** | 9.00%  | 720,000,000   | <p>TGE: 25% unlocked From M2-10: 5%<br>From M11-20: 3%</p>         |
+| **Team**                   | 18.00% | 1,440,000,000 | <p>12 months cliff<br>40 months vesting, linear unlock @ 2.50%</p> |
+| **Partners & Advisors**    | 4%     | 320,000,000   | <p>12 months cliff<br>40 months vesting, linear unlock @ 2.50%</p> |
 
