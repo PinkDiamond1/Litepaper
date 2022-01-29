@@ -4,6 +4,8 @@ description: $VRS
 
 # 📈 Tokenomics
 
+### **Token information** <a href="#token-information" id="token-information"></a>
+
 |                                |                                   |
 | ------------------------------ | --------------------------------- |
 | **Type**                       | Governance Token for IntoTheVerse |
