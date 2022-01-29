@@ -37,7 +37,7 @@
 
 * [🪙 Verse Token ($VRS)](token-economy/verse-token-usdvrs.md)
 * [🪙 Dungeon Token ($DGN)](token-economy/dungeon-token-usddgn.md)
-* [🦸♂ 🦸♂ 🦸♂ NFT Character liquidity](token-economy/nft-character-liquidity.md)
+* [🦸♂ NFT Character liquidity](token-economy/nft-character-liquidity.md)
 * [⚖ Composability](token-economy/composability.md)
 * [📈 Tokenomics](token-economy/tokenomics.md)
 
