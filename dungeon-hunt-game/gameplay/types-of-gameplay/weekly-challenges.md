@@ -4,6 +4,8 @@ The **Dungeon Keeper** finds new dungeons every week and stands guard at the ent
 
 Warriors have to win the Dungeon by completing the objective without dying a painful death from the hands of monsters. They can either kill the monsters or avoide them to save their HP. Warriors can also open the hidden chests scattered across the dungeon. They gain random number of $DGN tokens on succesfully opening the hidden chests. These chests can also have goblins sneaking inside them. If the warrior unfortunatly opens a chest with goblin he looses most of the tokens earned until then. They might also loose upto 20% of the HP depending on their guild.
 
+Players get rewarded a NFT-level pass on passing the challenge successfully, which acts as a proof of attandance token for that week's challenge. These can be used to claim better rewards in future.
+
 > _<mark style="color:red;">**Words of Caution**</mark>_
 >
 > _**Dungeon Keeper** has the agreement with the users that if they fail to pass the level, that is, **if their warrior dies** inside the dungeon while completing the challenge, he **has the right to own that warrior forever.**_

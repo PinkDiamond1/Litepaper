@@ -22,7 +22,7 @@ Since then, the people have been paying the **Summoners,** $DGN coins, to summon
 
 **Guilds**
 
-Elders have been trying to master the powers within the mystical objects collected by various warriors over a period of last 450 years and were successful in figuring out a way to transform people into warrior with different and unique set of traits. This gave birth to the concept of guild\*\*, Veneficus\*\* was the first guild. Currently they have found 10 guilds and are trying to find more.
+Elders have been trying to master the powers within the mystical objects collected by various warriors over a period of last 450 years and were successful in figuring out a way to transform people into warrior with different and unique set of traits. This gave birth to the concept of guild, Veneficus was the first guild. Currently they have found 10 guilds and are trying to find more.
 
 **There are 3 types of guilds:**
 

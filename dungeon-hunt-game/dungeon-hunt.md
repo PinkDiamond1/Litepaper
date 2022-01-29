@@ -10,15 +10,11 @@ In a nutshell, we are developing a captivating, stunning, and impressive retro w
 
 **Upgrade:** Buy, customise, and upgrade your warrior champions.
 
-
-
 **Long-term vision**
 
 The Dungeon Hunt game is only the beginning of our ecosystem. Dungeon Hunt will be launched in stages. After the launch of the weekly loot maps, the game will be gradually expanded into a full-fledged open world MMORPG overtime.
 
-We are going to launch the _weekly challenges_ first, so that our community of players, can raid weekly and could already get to know the world of Dungeon Hunt, within a quarter from the launch.
-
-The approach that we take is different from a lot of play-to-earn games out there. We don’t want our community to wait 2 to 4 years (this is the least time that quality MMORPG games take to build) with big promises and teaser trailers only. We believe the demand for the token will only appear when there is a real game, which is fun, addictive and interesting.
+We are going to launch the _weekly challenges_ first, so that our community of players, can raid weekly and could already get to know the world of Dungeon Hunt, within a quarter from the launch. The approach that we take is different from a lot of play-to-earn games out there. We don’t want our community to wait long with big promises and teaser trailers only. We believe the demand for the token will only appear when there is a real game, which is fun, addictive and interesting.
 
 Also, we are strong believers in decentralisation. We will implement a governance model in the Y2 of game development, so our players and token holders would be able to influence the MMORPG game direction and decisions in the building the future of this hidden underground world.
 

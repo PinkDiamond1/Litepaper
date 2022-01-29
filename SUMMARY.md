@@ -16,7 +16,7 @@
 
 * [💸 DeFi](metaverse/defi/README.md)
   * [🏦 Bank](metaverse/defi/bank.md)
-  * [👨🌾 👨🌾 👨🌾 Farm](metaverse/defi/farm.md)
+  * [👨🌾 Farm](metaverse/defi/farm.md)
 * [🛒 Shops & Marketplace](metaverse/shops-and-marketplace.md)
 * [🤩 Recreation](metaverse/recreation.md)
 * [✌ Social Impact](metaverse/social-impact.md)
