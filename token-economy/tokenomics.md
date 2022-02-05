@@ -20,11 +20,11 @@ description: $VRS
 | **Private sale price**         | $0.005 USD                        |
 | **Public sale price**          | $0.009 USD                        |
 
-![Tokenomics](../.gitbook/assets/Tokenomics.png)
+![Tokenomics](../.gitbook/assets/Tokenomics-2.png)
 
 ### Vesting Schedule
 
-![Vesting Schedule](<../.gitbook/assets/$VRS Unlock Schedule.png>)
+![](<../.gitbook/assets/$VRS Unlock Schedule.png>)
 
 | Category                   | Supply | Tokens        | TGE and Vesting                                                    |
 | -------------------------- | ------ | ------------- | ------------------------------------------------------------------ |
