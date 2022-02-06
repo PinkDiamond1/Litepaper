@@ -6,7 +6,7 @@ description: Dungeon Hunt's in-game token
 
 **$DGN Economy:**
 
-$DGN (abbreviated as 'Dungeon Token') will be a **variable** supply token with an initial mint supply of 10,000,000,000. In order to balance the game economy, we reserve the right to mint and burn $DGN as needed, as well as to adjust the prices of various activities $DGN is used on such as character creation and dungeons.
+$DGN (abbreviated as 'Dungeon Token') will be a **variable** supply token with an initial mint supply of 80,000,000,000. In order to balance the game economy, we reserve the right to mint and burn $DGN as needed, as well as to adjust the prices of various activities $DGN is used on such as character creation and dungeons.
 
 **Utility:**
 
@@ -14,11 +14,11 @@ $DGN is Dungeon Hunt's in-game token. It will be used by the Dungeon Keeper for 
 
 It is planned to serve as the default currency of the Dungeon Hunt marketplace, planned to launch in Q3 2022.
 
-$DGN will be earned by raiding the Dungeons, duels, and story mode. Players stand a chance to earn more $DGN progressively, by competing in further dungeons and maps.&#x20;
+$DGN will be earned by raiding the Dungeons, duels, and story mode. Players stand a chance to earn more $DGN progressively, by competing in further dungeons and maps.
 
 Warriors having advanced 'Rarity', are able to mine more $DGN coins while raiding the dungeons.
 
-'Ubeswap' Banks inside our metaverse would also enable players to earn rewards in $DGN tokens while staking $cVRS token.&#x20;
+'Ubeswap' Banks inside our metaverse would also enable players to earn rewards in $DGN tokens while staking $cVRS token.
 
 **Price Factors:**
 
