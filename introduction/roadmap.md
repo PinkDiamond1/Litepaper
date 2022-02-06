@@ -1,6 +1,6 @@
 # 🗺 Roadmap
 
-IntoTheVerse will continue to grow with new features, systems, maps, and NFTs. The roadmap below indicates the expected milestones in development.\\
+IntoTheVerse will continue to grow with new features, systems, maps, and NFTs. The roadmap below indicates the expected milestones in development.
 
 **Q1, 2022**
 
