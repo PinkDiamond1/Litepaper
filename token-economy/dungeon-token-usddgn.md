@@ -12,7 +12,7 @@ $DGN (abbreviated as 'Dungeon Token') will be a **variable** supply token with a
 
 $DGN is Dungeon Hunt's in-game token. It will be used by the Dungeon Keeper for operating dungeons, summoning new warriors, PVP duels, rewards, buying power-ups.
 
-It is planned to serve as the default currency of the Dungeon Hunt marketplace, planned to launch in Q3 2022.
+It is planned to serve as the default currency of the Dungeon Hunt marketplace, planned to launch in Q4 2022.
 
 $DGN will be earned by raiding the Dungeons, duels, and story mode. Players stand a chance to earn more $DGN progressively, by competing in further dungeons and maps.
 
