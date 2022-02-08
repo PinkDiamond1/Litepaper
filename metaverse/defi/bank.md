@@ -4,6 +4,6 @@ The banks inside our metaverse allow the civilians to swap tokens from $CELO to 
 
 **Why use the bank?**
 
-![](<../../.gitbook/assets/image (1).png>)
+![](<../../.gitbook/assets/image (1) (1).png>)
 
 You might want to buy items from our marketplace, own land on the metaverse, and even stake your earnings from the dungeons. The citizens of our metaverse have long been using $VRS and $DGN tokens for trade in the city, ever since they started mining from the mines inside the dungeons. Therefore, it is recommended to swap tokens with the Tellers at the counter for use inside the city.
