@@ -6,6 +6,10 @@ description: The lore of IntoTheVerse
 
 > _**The world that you perceive is not the only world in existence.**_
 
+{% embed url="https://youtu.be/jpcm_5E-BiA" %}
+Chapter 1: Intro
+{% endembed %}
+
 **IntoTheVerse** is a  pixel replication of the real world we live in. People live in a crypto-native city in various aspects of life. The city has banks, museums, shops, farms, recreational avenues, etc.
 
 But until recently, not everyone inside this Verse knew that there's a whole other world existing just beneath their surface. The knowledge of this hidden underground world had been known to a few and had been concealed from the rest.
