@@ -34,7 +34,7 @@ Elders have been trying to master the powers within the mystical objects collect
 
 **There are 3 types of guilds:**
 
-![Veneficus](../.gitbook/assets/image.png) ![Aspectum](<../.gitbook/assets/NicePng\_phoenix-bird-logos-png\_9436396 1.png>) ![Strykur](../.gitbook/assets/strykur.png)
+![Veneficus](<../.gitbook/assets/image (1).png>) ![Aspectum](<../.gitbook/assets/NicePng\_phoenix-bird-logos-png\_9436396 1.png>) ![Strykur](../.gitbook/assets/strykur.png)
 
 **Veneficus** - _Possess mystical powers._
 
