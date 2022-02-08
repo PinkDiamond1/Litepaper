@@ -4,6 +4,8 @@ description: Dungeon Hunt's in-game token
 
 # 🪙 Dungeon Token ($DGN)
 
+****![](<../.gitbook/assets/DGN gif.gif>)****
+
 **$DGN Economy:**
 
 $DGN (abbreviated as 'Dungeon Token') will be a **variable** supply token with an initial mint supply of 80,000,000,000. In order to balance the game economy, we reserve the right to mint and burn $DGN as needed, as well as to adjust the prices of various activities $DGN is used on such as character creation and dungeons.
@@ -31,3 +33,5 @@ This naturally creates a dual token economy revolving around the utility $DGN to
 We anticipate the $DGN token to be intensely liquid in supply with a resonating price. It would increase in value as the game economy continues to foster and grow with the community adoption but it wouldn't control the economic aspects of the game entirely on its own.
 
 For that, we have the $cVRS, the metaverse token.
+
+![](<../.gitbook/assets/CUSD gif.gif>)![](<../.gitbook/assets/CELO gif (1).gif>)
