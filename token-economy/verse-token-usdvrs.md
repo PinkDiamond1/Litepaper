@@ -4,6 +4,8 @@ description: The legal tender and mode of exchange inside the city.
 
 # 🪙 Verse Token ($VRS)
 
+![$VRS token](<../.gitbook/assets/CVRS Gif.gif>)
+
 **IntoTheVerse** platform works on a _dual token economy. While_ capitalizing on the advances in the blockchain, NFT, and DeFi ecosystems, our game, aims to operate using two tokens, covering the liquidity, play2earn rewards, platform, and governance aspects of Verse.
 
 The main token of IntoTheVerse is called the $VRS token (abbreviated as Verse), and will be a **fixed** supply token, with an initial mint supply of 8,000,000,000 without any discretion to vary its supply.

@@ -1,5 +1,7 @@
 # 🗡 Dungeon Hunt
 
+![Play, Win & Earn](../.gitbook/assets/image.png)
+
 Dungeon Hunt is a novel Play-To-Earn Role-Playing dungeon crawler game, built on Celo Blockchain. It takes decades of best practices around building a compelling RNG-based RPG, while adding in new economic elements in the from of P2E, made possible by Celo.
 
 In a nutshell, we are developing a captivating, stunning, and impressive retro world RNG-based game where players can:

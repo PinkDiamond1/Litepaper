@@ -1,5 +1,7 @@
 # 🛒 Shops & Marketplace
 
+{% embed url="https://giphy.com/gifs/vQjfgXTOJH9rJO9mrG" %}
+
 This feature will be launched later, where players can equip spells, cosmetics, weapons, shields to already owned warriors, before they raid the dungeons.
 
 The Marketplace also acts as a breeding ground for warriors, where players can also buy new warriors and later upgrade them, or sell their warriors to other players.
