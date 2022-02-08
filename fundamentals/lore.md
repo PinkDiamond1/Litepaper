@@ -30,15 +30,17 @@ Since then, the people have been paying the **Summoners,** $DGN coins, to summon
 
 **Guilds**
 
-Elders have been trying to master the powers within the mystical objects collected by various warriors over a period of last 450 years and were successful in figuring out a way to transform people into warrior with different and unique set of traits. This gave birth to the concept of guild, Veneficus was the first guild. Currently they have found 10 guilds and are trying to find more.
+Elders have been trying to master the powers within the mystical objects collected by various warriors over a period of last 450 years and were successful in figuring out a way to transform people into warrior with different and unique set of traits. This gave birth to the concept of guilds. Currently they have found 3 guilds and are harnessing even more with the passage of time.
 
 **There are 3 types of guilds:**
 
-Veneficus - Possess mystical powers.
+![Veneficus](../.gitbook/assets/image.png) ![Aspectum](<../.gitbook/assets/NicePng\_phoenix-bird-logos-png\_9436396 1.png>) ![Strykur](../.gitbook/assets/strykur.png)
 
-Acepectum - Blessed with rare sight.
+**Veneficus** - _Possess mystical powers._
 
-Strykur - Superhuman Strength
+**Aspectum** - _Blessed with rare sight._
+
+**Strykur** - _Possess Superhuman strength._
 
 ***
 
