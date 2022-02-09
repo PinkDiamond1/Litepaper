@@ -20,7 +20,7 @@ $DGN will be earned by raiding the Dungeons, duels, and story mode. Players stan
 
 Warriors having advanced 'Rarity', are able to mine more $DGN coins while raiding the dungeons.
 
-'Ubeswap' Banks inside our metaverse would also enable players to earn rewards in $DGN tokens while staking $cVRS token.
+'Ubeswap' Banks inside our metaverse would also enable players to earn rewards in $DGN tokens while staking $VRS token.
 
 **Price Factors:**
 
@@ -32,6 +32,6 @@ This naturally creates a dual token economy revolving around the utility $DGN to
 
 We anticipate the $DGN token to be intensely liquid in supply with a resonating price. It would increase in value as the game economy continues to foster and grow with the community adoption but it wouldn't control the economic aspects of the game entirely on its own.
 
-For that, we have the $cVRS, the metaverse token.
+For that, we have the $VRS, the metaverse token.
 
 ![](<../.gitbook/assets/CUSD gif.gif>)![](<../.gitbook/assets/CELO gif (1).gif>)
