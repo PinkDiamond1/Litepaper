@@ -1,6 +1,6 @@
 # 🛒 Shops & Marketplace
 
-{% embed url="https://giphy.com/gifs/vQjfgXTOJH9rJO9mrG" %}
+![Demo Marketplace](../.gitbook/assets/Marketplace.gif)
 
 This feature will be launched later, where players can equip spells, cosmetics, weapons, shields to already owned warriors before they raid the dungeons.
 
