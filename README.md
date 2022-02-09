@@ -12,9 +12,9 @@ IntoTheVerse is a pixel parallel reflection of our world. It has a game, a DEX, 
 
 Come join our lovely community!&#x20;
 
-* Discord:&#x20;
-* Telegram
-* Twitter
+* Discord: [https://discord.gg/w94EVQRPRf](https://discord.gg/w94EVQRPRf)
+* Telegram: [https://t.me/+DMcO1fw\_hc40Nzll](https://t.me/+DMcO1fw\_hc40Nzll)
+* Twitter: [https://twitter.com/IntoTheVerse\_](https://twitter.com/IntoTheVerse\_)
 
 In a nutshell, we are developing a captivating, stunning, and impressive retro Metaverse where players can:
 
