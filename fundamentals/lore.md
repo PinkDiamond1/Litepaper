@@ -44,4 +44,6 @@ Elders have been trying to master the powers within the mystical objects collect
 
 ***
 
-##
+## Celo Camp web3 Accelerator Progress
+
+{% embed url="https://youtu.be/ptuqG5OkHCg" %}
