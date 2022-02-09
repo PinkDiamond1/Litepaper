@@ -23,4 +23,4 @@ In a nutshell, we are developing a captivating, stunning, and impressive retro M
 * **Upgrade:** Buy, customise, and upgrade warriors
 * **Host:** Buy land or lease heroes and earn passive income​.
 
-![Cover](<.gitbook/assets/image (1).png>)
+![Cover](<.gitbook/assets/image (1) (1).png>)
