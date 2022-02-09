@@ -37,7 +37,7 @@ Alpha Launch will be for users who hold the NFTs from the presale.
 **Q1, 2023**
 
 * [ ] Native-game marketplace launch.
-* [ ] Evolving NFTs, tree NFTs for green initiatives for the marketplace
+* [ ] Evolving NFTs, tree NFTs for green initiatives for the metaverse
 
 **Q2, 2023**
 
