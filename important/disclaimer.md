@@ -6,7 +6,7 @@ _"DYOR aims to reduce the number of uninformed investors in cryptocurrency. It e
 
 _The term is also often used as a disclaimer when cryptocurrency traders and enthusiasts make public posts or share their market analyses on social media platforms."_
 
-At **IntoTheVerse** we're making a unique, interesting, and compelling experience. We are in for the long run and aim to create a game we are proud of.&#x20;
+At **IntoTheVerse** we're making a unique, interesting, and compelling experience. We are in for the long run and aim to create a platform that we are proud of.&#x20;
 
 We hope that this value will be reflected in our token's value. However, we cannot guarantee anything with respect to the token price, as there are many factors that we cannot control.
 
