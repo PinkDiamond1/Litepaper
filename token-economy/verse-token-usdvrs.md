@@ -44,4 +44,6 @@ A portion of the fixed-supply of $VRS tokens will be unlocked, with the rest ste
 
 The $VRS token would bring in-game utility with it, and also allow earning $DGN through rewards. Because of this, we expect less sell pressure on the $VRS tokens as they’re released, thus providing considerable value to the players and to anyone bullish on our ecosystem.
 
-<mark style="background-color:blue;">****</mark>
+{% hint style="info" %}
+`Note: Further information, on rewards and token plan would be shared in due course of time before the token launch in Q2-2022.`
+{% endhint %}
