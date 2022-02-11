@@ -8,8 +8,8 @@ IntoTheVerse will continue to grow with new features, systems, maps, and NFTs. T
 
 **Q1, 2022**
 
-* [ ] Discord Community
-* [ ] White paper & Docs
+* [x] Discord Community
+* [x] White paper & Docs
 * [ ] Revamp Website
 * [ ] Medium articles about tokenomics and upcoming features
 * [ ] Gameplay teaser, with few levels on test net.
