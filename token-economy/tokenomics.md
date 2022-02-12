@@ -15,10 +15,7 @@ description: $VRS
 |                                |                                   |
 | **Initial circulating supply** | 292,000,000 VRS                   |
 | **Initial market cap**         | $2,628,000 USD                    |
-|                                |                                   |
 | **Seed sale price**            | $0.003 USD                        |
-| **Private sale price**         | $0.005 USD                        |
-| **Public sale price**          | $0.009 USD                        |
 
 ![Tokenomics](../.gitbook/assets/Tokenomics-2.png)
 
