@@ -6,16 +6,12 @@ description: $VRS
 
 ### **Token information** <a href="#token-information" id="token-information"></a>
 
-|                                |                                   |
-| ------------------------------ | --------------------------------- |
-| **Type**                       | Governance Token for IntoTheVerse |
-| **Ticker**                     | VRS                               |
-| **Maximum Supply**             | 8,000,000,000 VRS (FIXED)         |
-| **Token Contract**             | TBD                               |
-|                                |                                   |
-| **Initial circulating supply** | 292,000,000 VRS                   |
-| **Initial market cap**         | $2,628,000 USD                    |
-| **Public sale price**          | $0.009 USD                        |
+|                    |                                   |
+| ------------------ | --------------------------------- |
+| **Type**           | Governance Token for IntoTheVerse |
+| **Ticker**         | VRS                               |
+| **Maximum Supply** | 8,000,000,000 VRS (FIXED)         |
+| **Token Contract** | TBD                               |
 
 ![Tokenomics](../.gitbook/assets/Tokenomics-2.png)
 
