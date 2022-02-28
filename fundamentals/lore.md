@@ -26,6 +26,12 @@ As soon as they came out of the tunnel, they transformed back to their normal se
 
 Since then, the people have been paying the **Summoners,** $DGN coins, to summon new heroes to raid the dungeons, and have been uncovering mystical secrets from the past, one by one, while also mining more rewards. People have been using these rewards to create technological advancements in the city and create conditions of prosperity for all.
 
+**A sneak peek into the possibilities of our metaverse:**
+
+{% embed url="https://www.youtube.com/watch?t=1s&v=PhgnBYY3uK4" %}
+IntoTheVerse LORE Chapter 3: The Metaverse
+{% endembed %}
+
 ## _Power of different Guilds_
 
 **Guilds**
