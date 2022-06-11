@@ -6,41 +6,14 @@ description: IntoTheVerse started during the Celo Camp web3 accelerator Batch 4 
 
 IntoTheVerse will continue to grow with new features, systems, maps, and NFTs. The roadmap below indicates the expected milestones in development.
 
-**Q1, 2022**
+**Q1, Q2 2022**
 
 * [x] Discord Community
 * [x] White paper & Docs
+* [x] Lore
 * [ ] Revamp Website
 * [ ] Medium articles about tokenomics and upcoming features
-* [ ] Gameplay teaser, with few levels on test net.
 
-**Q2, 2022**
+![](<../.gitbook/assets/image (3).png>)
 
-* [ ] NFT presale, airdrops.
-* [ ] IDO and DEX launch.
-* [ ] Staking and farming launch.
-* [ ] Smart contract setup.
-
-**Q3, 2022**
-
-* [ ] Alpha game launch with Weekly challenges (PVE).
-* [ ] Launch City map for metaverse, which includes a functional bank, farms, shops, and forests, community integrations and beta-launch.
-
-{% hint style="info" %}
-Alpha Launch will be for users who hold the NFTs from the presale.
-{% endhint %}
-
-**Q4, 2022**
-
-* [ ] Alpha game launch extension with PvP mode.
-
-**Q1, 2023**
-
-* [ ] Native-game marketplace launch.
-* [ ] Evolving NFTs, tree NFTs for green initiatives for the metaverse
-
-**Q2, 2023**
-
-* [ ] Creating utility for existing ecosystem projects on Celo inside our metaverse in order to grow in synergy. Introducing ownable IntoTheVerse Real Estate, and rare NFT characters for our marketplace.
-
-and much more......
+![](../.gitbook/assets/image.png)

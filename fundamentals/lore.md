@@ -40,7 +40,7 @@ Elders have been trying to master the powers within the mystical objects collect
 
 **There are 3 types of guilds:**
 
-![Veneficus](<../.gitbook/assets/image (1) (1) (1) (1).png>) ![Aspectum](<../.gitbook/assets/NicePng\_phoenix-bird-logos-png\_9436396 1.png>) ![Strykur](../.gitbook/assets/strykur.png)
+![Veneficus](<../.gitbook/assets/image (1) (1) (1) (1) (1).png>) ![Aspectum](<../.gitbook/assets/NicePng\_phoenix-bird-logos-png\_9436396 1.png>) ![Strykur](../.gitbook/assets/strykur.png)
 
 **Veneficus** - _Possess mystical powers._
 
@@ -52,7 +52,7 @@ Elders have been trying to master the powers within the mystical objects collect
 
 ## Our Progress at Celo Camp web3 Accelerator Program
 
-[**Celo Camp**](https://www.celocamp.com) web3 accelerator program, was a huge success for **IntoTheVerse,** providing us a different dimension, direction and see things in a different perspective while building out our initial MVP**.** \
+[**Celo Camp**](https://www.celocamp.com/) web3 accelerator program, was a huge success for **IntoTheVerse,** providing us a different dimension, direction and see things in a different perspective while building out our initial MVP**.** \
 \
 The Celo Camp not only helped us focus on multiple facets of our idea but also on ourselves as a founding team. We can only encourage other founders to participate, and appreciate the Celo Camp team for the amazing work they’re doing.
 

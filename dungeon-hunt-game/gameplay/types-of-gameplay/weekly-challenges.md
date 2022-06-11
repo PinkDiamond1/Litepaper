@@ -1,6 +1,6 @@
 # 📅 Weekly Challenges
 
-![](<../../../.gitbook/assets/image (1).png>)
+![](<../../../.gitbook/assets/image (1) (1).png>)
 
 The **Dungeon Keeper** finds new dungeons every week, and stands guard at the entrance. Ideally every warrior is given only one chance to enter the new dungeon, to prove their might and clear the dungeon by the **Dungeon Keeper**. As he has been living in these dungeons for a while, he is corrupted by the dark forces and takes payments from the failed warriors in $DGN tokens to give them another try.
 

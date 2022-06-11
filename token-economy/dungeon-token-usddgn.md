@@ -4,7 +4,7 @@ description: Dungeon Hunt's in-game token
 
 # 🪙 Dungeon Token ($DGN)
 
-****![](<../.gitbook/assets/DGN gif.gif>)****
+****<img src="../.gitbook/assets/DGN gif.gif" alt="" data-size="original">****
 
 **$DGN Economy:**
 
